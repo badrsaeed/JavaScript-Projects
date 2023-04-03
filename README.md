@@ -6,7 +6,7 @@
 
 ### Installation
     To use this project, simply download the repository or clone it using Git:
-     git clone https://github.com/your-username/your-repo.git
+     git clone https://github.com/badrsaeed/JavaScript-Projects.git
      
 ### Usage
     To use the slider, simply open the index.html file in your web browser. You should see a slider with five 
