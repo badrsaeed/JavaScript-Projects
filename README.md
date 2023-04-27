@@ -19,14 +19,14 @@
   You can also change the number of images in theslider by updating the slides array in the app.js file.
   
 ### Contributing
-  Contributions to this project are welcome. To contribute, simply fork the repository and create a new branch
+  Contributions to this projects are welcome. To contribute, simply fork the repository and create a new branch
   for your changes. Then, submit a pull request with your changes for review.
   
 ### License
 This project is licensed under the MIT License. Feel free to use and modify it as you like.
 
 ### Credits
-This project was created by [Your Name]. If you have any questions or comments, feel free to contact me at [Badrsaeed85@gmail.com].
+This project was created by Badr Saeed. If you have any questions or comments, feel free to contact me at Badrsaeed85@gmail.com
 
 
 
