@@ -1,0 +1,134 @@
+.main-contant{
+    background-color: #FEF9ED;
+    margin-bottom: 20px;
+
+}
+
+.image-cont{
+    padding: 80px 0;
+    position: relative;
+}
+.image-cont img{
+    width: 100%;
+}
+.image-cont .description{
+    position: absolute;
+    transform: translate(45%,-250%);
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    font-weight: 100;
+}
+.image-cont .description span{
+    font-weight: blod;
+    font-size: 26px;
+    display: block;
+    margin-top: 10px;
+}
+.image-cont a{
+    background-color: #EC4E1F;
+    padding: 16px;
+    font-size: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    color: white;
+    /* transform: translate(40%,-150%); */
+}
+.image-cont a:hover{
+    opacity: .8;
+}
+#contact-form{
+    width: 80%;
+    margin: 20px auto;
+    
+}
+.slice{
+    box-shadow: 3px 3px 15px #EEE;
+
+    background-color: white;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.slice div{
+    background-color: white;
+}
+.slice .info{
+    display: flex;
+    flex-direction: column;
+}
+.slice .info span{
+    margin-top: 10px;
+    color: gray;
+}
+.slice .icon{
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 50%;
+    background-color: rgb(212, 94, 35, .2);
+    color: #D45E23;
+}
+
+.form{
+    padding: 30px;
+    background-color: white;
+    box-shadow: 3px 3px 15px #EEE;
+    border-radius: 10px;
+}
+.form h2{
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+.form p{
+    font-size: 19px;
+    margin-bottom: 10px;
+    color: #999;
+}
+.form form{
+    font-size: 22px;
+}
+.form div{
+    margin-bottom: 20px;
+}
+.form input{
+    padding: 10px;
+    width: 50%;
+    margin-left: 20px;
+}
+.form .sub{
+    margin-left: 7px;
+}
+.form .err{
+    font-size: 16px;
+    color: red;
+    display: none;
+}
+.form .name-err,
+ .email-err, 
+    .comment-err{
+    display: none;
+}
+
+.form .btn{
+    padding: 10px;
+    background-color: #FAA606;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex-r{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

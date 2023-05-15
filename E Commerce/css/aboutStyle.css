@@ -1,0 +1,91 @@
+
+body{
+    background-color: #FEF9ED;
+}
+.mission{
+    padding: 100px 0px;
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.mission h1{
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.mission p{
+    font-size: 28px;
+}
+.main-content .content .story{
+    text-align: center;
+    font-size: 3rem;
+    margin: 4rem auto;
+}
+.main-content .content p{
+    margin: 2% auto;
+    text-align: center;
+    font-size: 1.3rem;
+    width: 50%;
+}
+@media (max-width:500px)
+{
+    .mission{
+        padding: 150px;
+        margin-bottom: 20px;
+    }
+    .mission h1{
+        font-size: 30px;
+    }
+    .mission p{
+        font-size: 18px;
+    }
+    .main-content .content p{
+        margin: 2% auto;
+        text-align: center;
+        font-size: 1.3rem;
+        width: 80%;
+    }
+}
+
+@media (min-width:501px) and (max-width: 912px){
+    .mission{
+        padding: 100px 0 0;
+        margin-bottom: 20px;
+    }
+    .mission h1{
+        font-size: 36px;
+    }
+    .mission p{
+        font-size: 26px;
+    }
+    .main-content .content p{
+        margin: 2% auto;
+        text-align: center;
+        font-size: 2rem;
+        width: 80%;
+    }
+}
+@media (min-width: 1200px){
+    .mission{
+        padding: 100px 0 0;
+        margin-bottom: 20px;
+    }
+    .mission h1{
+        font-size: 48px;
+    }
+    
+    .main-content .content .story{
+        text-align: center;
+        font-size: 3rem;
+        margin: 4rem auto;
+    }
+
+    .mission p{
+        font-size: 24px;
+    }
+    .main-content .content p{
+        margin: 2% auto;
+        text-align: center;
+        font-size: 1.3rem;
+        width: 80%;
+    }
+}
